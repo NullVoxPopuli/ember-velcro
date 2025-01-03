@@ -3,7 +3,7 @@
 The code for ember-velcro has been copied to `ember-primitives` and improved there:
 
 GitHub: https://github.com/universal-ember/ember-primitives/
-Docs: https://ember-primitives.pages.dev/5-floaty-bits/popover.md
+Docs: https://ember-primitives.pages.dev/5-floaty-bits/floating-ui.md
 
 ---------------------------------------
 
